@@ -6,6 +6,6 @@ if($_POST){
     $message = $_POST['message'];
 
 //send email
-    mail("email@gmail.com", "This is an email from:" .$email, $message);
+    mail("aly.badran93@gmail.com", "This is an email from:" .$email, $message);
 }
 ?>
