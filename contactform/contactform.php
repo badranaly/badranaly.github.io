@@ -1,4 +1,5 @@
 <?php
+echo 'i\'ve been hit'
 if($_POST){
     $name = $_POST['name'];
     $email = $_POST['email'];
