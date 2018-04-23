@@ -95,6 +95,7 @@ jQuery(document).ready(function($) {
     if (ferror) return false;
     else var str = $(this).serialize();
     $.ajax({
+      console.log('inside ajax call');
       type: "POST",
       url: "./contactform.php",
       data: str,
