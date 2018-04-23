@@ -1,3 +1,5 @@
+console.log('inside ajax');
+
 jQuery(document).ready(function($) {
   "use strict";
 
