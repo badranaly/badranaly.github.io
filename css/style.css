@@ -622,6 +622,7 @@ nav ul li a {
 }
 
 #footer p {
+  text-align: center;
   font-size: 12px;
   letter-spacing: 0.1em;
   font-weight: 500;
