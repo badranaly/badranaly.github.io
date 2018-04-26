@@ -565,6 +565,7 @@ nav ul li a {
 }
 
 #contact .validation {
+  text-align: center;
   color: red;
   display: none;
   margin: 0 0 20px;
@@ -622,7 +623,6 @@ nav ul li a {
 }
 
 #footer p {
-  text-align: center;
   font-size: 12px;
   letter-spacing: 0.1em;
   font-weight: 500;

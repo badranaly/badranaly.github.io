@@ -93,7 +93,7 @@ $(document).ready(function() {
 
   $('.services-carousel').owlCarousel({
       autoplay: true,
-      loop: false,
+      loop: true,
       margin: 20,
       dots: true,
       nav: false,
